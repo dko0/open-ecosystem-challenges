@@ -5,7 +5,7 @@ the ArgoCD configuration and restore proper multi-environment delivery.
 
 ## ⏰ Deadline
 
-Monday, 15 December 2025 at 10:00 CET
+Wednesday, 10 December 2025 at 09:00 CET
 > ℹ️ You can still complete the challenge after this date, but points will only be awarded for submissions before the
 > deadline.
 

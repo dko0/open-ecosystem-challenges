@@ -44,10 +44,10 @@ the ArgoCD configuration and restore proper multi-environment delivery.
 
 ### 🟡 Intermediate: The Silent Canary
 
-**Status:** 🚧 Coming on December 1
+**Status:** 🚧 Coming on December 8
 
 ### 🔴 Expert: Echoes in the Dark
 
-**Status:** 🚧 Coming on December 8
+**Status:** 🚧 Coming on December 22
 
 
